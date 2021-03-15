@@ -1,4 +1,4 @@
-# Linkedin-Hugo-project-
+# Linkedin-scraping-project (Hugo-project)
 Proof-of-concept for collecting linkedin profiles and scraping them with LinkedinScraper. 
 
 The input file contains the list of links from the google search.
